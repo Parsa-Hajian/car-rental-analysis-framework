@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+wordcloud
+textblob
+beautifulsoup4
+requests
